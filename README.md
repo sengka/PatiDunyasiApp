@@ -38,18 +38,28 @@ Projeyi yerel bilgisayarınızda çalıştırmak isterseniz aşağıdaki adımla
 ```bash
 git clone https://github.com/sengka/PatiDunyasiApp.git
 cd PatiDunyasiApp
-2. Bağımlılıkları Yükleyin
-code
-Bash
+```
+
+### 2. Bağımlılıkları Yükleyin
+```bash
 npm install
-3. Uygulamayı Başlatın
-code
-Bash
+```
+
+### 3. Uygulamayı Başlatın
+```bash
 npm run dev
-Uygulama varsayılan olarak http://localhost:3000 adresinde çalışacaktır.
-🛠️ Kullanılan Teknolojiler
-React & TypeScript: Güçlü ve tip güvenli bir kullanıcı arayüzü.
-Tailwind CSS: Modern ve hızlı arayüz tasarımı.
-Framer Motion: Akıcı animasyonlar ve geçişler.
-Expo & WebView: Web uygulamasının mobil platforma taşınması.
-🐾 Pati Dünyası, sengka tarafından sevgiyle geliştirildi.
+```
+
+Uygulama varsayılan olarak şu adreste çalışacaktır:  
+http://localhost:3000
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+- React & TypeScript: Güçlü ve tip güvenli bir kullanıcı arayüzü  
+- Tailwind CSS: Modern ve hızlı arayüz tasarımı  
+- Framer Motion: Akıcı animasyonlar ve geçişler  
+- Expo & WebView: Web uygulamasının mobil platforma taşınması  
+
+---
